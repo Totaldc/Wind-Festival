@@ -83,3 +83,7 @@ nav a:hover{
     font-weight: bold;
     background-color: darkgrey;
 }
+
+.b-border{
+    border-bottom: 2px solid lightgrey;
+}

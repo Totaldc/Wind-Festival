@@ -193,6 +193,24 @@
 <section class="separator_bg">
 </section>
 <!-- END OF SEPARATOR SECTION -->
+<section>
+    <div class="container">
+        <div class="column justify-content-center">
+            <div class="col-12 text-center">
+                <h1>Wind Festival 2019 Highlight Reel</h1>
+            </div>
+            <div class="col-12">
+            <iframe width="1078" height="606" src="https://www.youtube.com/embed/Nz-YVbuAxOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center mt-1 b-border">
+                <a href="#"><img class="m-5" src="assets/images/mail-24.png" alt=""></a>
+                <a href="#"><img class="m-5" src="assets/images/instagram-24.png" alt=""></a>
+            </div>
+            <div class="b-border">	&nbsp;</div>
+    </div>
+</section>
+<!-- end of youtube section -->
 
     
 <script type="text/javascript" src="assets/js/jquery.js"></script>
