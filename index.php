@@ -1,4 +1,29 @@
 
+<?php
+//irasymas i faila
+$note = fopen("data.txt", "a+") or die("Unable to open"); //kur irasyti
+$txt = $_POST['user_name'] . ' ' . $_POST['lName'] . ' ' . $_POST['email'] .  "\n"; //ka irasyti
+fwrite($note, $txt);
+fclose($note);
+
+//nuskaitymas txt failo duomenu
+$fileopen = fopen('data.txt', 'r');
+$txt_string = fread($fileopen,filesize('data.txt'));
+
+//isskirstymas i zmoniu masyvus
+$array_data = explode("\n",$txt_string);
+
+//isskirstymas stringo i zmogaus data masyva
+foreach ($array_data as $array_person){
+    $array_person_data = explode(' ', $array_person);
+    // var_dump($array_person_data);
+}
+
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +68,7 @@
                 <div class="emailForm p-4">
                 <h2 class="mt-2">SUBSCRIBE</h2>
                 <P class="font-weight-light">Sign up to the Squamish Arts Council eNewsletter to receive updates on the event schedule.</P>
-                <form action="" class="">
+                <form action="" method="post" class="">
                     <input type="email" name="email" placeholder="Email address:"><span><input type="submit" placeholder="Sign Up"></span>
                 </form>
                 </div>
@@ -230,7 +255,7 @@
             <div class="contactForm p-4 text-center">
                     <h2 class="mt-2">SUBSCRIBE</h2>
                     <P class="font-weight-light">Sign up with your email address to receive news and updates from the Wind Festival & Squamish Arts Council.</P>
-                    <form action="" class="">
+                    <form action="" method="post" class="">
                         <input type="text" name="user_name" placeholder="First name">
                         <input type="text" name="lName" placeholder="Last name">
                         <input type="email" name="email" placeholder="Email address:">
