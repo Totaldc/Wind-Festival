@@ -46,6 +46,13 @@ nav a:hover{
     height: 176px;
 }
 
+.separator2_bg{
+    background-image: url(../images/separator3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 176px;
+}
+
 .card{
     border: none;
 }
@@ -56,6 +63,23 @@ nav a:hover{
 
 .picture-text{
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 15%;
+}
+
+.participants-a a{
+    border: 2px solid grey;
+    color: grey;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.participants-a a:hover{
+    border: 2px solid grey;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+    background-color: darkgrey;
 }

@@ -94,8 +94,8 @@
 <section class="separator_bg">
 </section>
 <!-- END OF SEPARATOR SECTION -->
-<section>
-    <div class="container">
+<section mb-5>
+    <div class="container mt-5">
         <div class="d-flex justify-content-between">
             <div class="col-4">
                 <h5>SCHEDULE OF EVENTS</h5>
@@ -106,7 +106,7 @@
             </div>
         </div>
     </div>
-    <div class="container mt-5">
+    <div class="container mt-5 mb-5">
         <div class="d-flex justify-content-center">
         <div class="col-8">
             <img class="group-picture" src="assets/images/artist_left.jpg" alt="" width="643px" height="398px">
@@ -133,7 +133,66 @@
 <section class="separator2_bg">
 </section>
 <!-- END OF SEPARATOR SECTION -->
-
+<section>
+    <div class="container mt-5">
+        <div class="d-flex justify-content-around">
+            <div class="left col-4">
+                <h5 class="text-muted">SCHEDULE OF EVENTS</h5>
+                <h1>Wind Art</h1>
+            </div>
+            <div class="right col-8">
+                <h4>Participate in our at home art program by following us on our social media feeds or subscribe to our newsletter.</h4>
+            </div>
+        </div>
+        <!-- start of carousel -->
+        <div id="carouselExampleControls" class="carousel slide mt-5 mb-5" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/images/carousel1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/carousel2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/carousel3.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+        <!-- end of carousel -->
+    </div>
+</section>
+<!-- end of carousel section -->
+<section class="separator3_bg">
+</section>
+<!-- END OF SEPARATOR SECTION -->
+<section class="mb-5">
+    <div class="container">
+        <div class="d-flex justify-content-center">
+            <div class="left col-4">
+                <h4>PARTICIPANTS</h4>
+                <h1>Virtual Market</h1>
+            </div>
+            <div class="right col-6">
+                <h5>We have gathered a selection of local handmade makers that you can browse their goods and purchase online.</h5>
+                <div class="participants-a mt-5">
+                    <a href="#">VIRTUAL MARKET APPLICATION</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end of pariticipants section -->
+<section class="separator_bg">
+</section>
+<!-- END OF SEPARATOR SECTION -->
 
     
 <script type="text/javascript" src="assets/js/jquery.js"></script>
