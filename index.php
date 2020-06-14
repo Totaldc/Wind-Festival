@@ -39,7 +39,7 @@ foreach ($array_data as $array_person){
         <div class="row justify-content-between p-3">
             <span>WIND FESTIVAL FOR THE ARTS</span>
             <nav>
-                <a href="#">VIRTUAL MARKET APPLICATION</a>
+                <a href="app/views/virtual-market-application.php">VIRTUAL MARKET APPLICATION</a>
                 <a href="#">SPONSORS</a>
             </nav>
         </div>

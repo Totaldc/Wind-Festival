@@ -124,3 +124,74 @@ nav a:hover{
     color: white;
     padding: 8px;
 }
+
+.button{
+    margin-top: 50px;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    background-color: black;
+}
+
+.af input{
+    width: 100%;
+    padding-top: 15px;
+    background-color:#E3E3E3;
+    border: none;
+    color: grey;
+}
+
+.af textarea{
+    width: 100%;
+    padding-top: 15px;
+    background-color:#E3E3E3;
+    border: none;
+    color: grey;
+}
+
+
+.check-and-sub input{
+   width: 20%;
+   padding: 10px 20px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.vendor-link{
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+}
+
+.fee{
+    color: grey;
+    font-size: 20px;
+}
+
+.num-input{
+    width: 15%;
+}
+
+.sub-button2{
+    padding: 10px 23px;
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 9px;
+}
+
+.check{
+    width:80%;
+    height: 10%;
+    margin: 0;
+    text-align: left;
+}
+
+.check p{
+    padding: 0;
+}
+
+.check input{
+    padding: 0;
+}
