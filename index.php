@@ -90,6 +90,50 @@
         </div>
     </div>
 </section>
+<!-- end of drive-in section with cards -->
+<section class="separator_bg">
+</section>
+<!-- END OF SEPARATOR SECTION -->
+<section>
+    <div class="container">
+        <div class="d-flex justify-content-between">
+            <div class="col-4">
+                <h5>SCHEDULE OF EVENTS</h5>
+                <h1>Livestreams</h1>
+            </div>
+            <div class="col-7">
+                <h4 class="font-weight-light">Re-imagining musical performances, workshop discussions and storytelling sessions and bringing them live to your home.</h4>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div class="d-flex justify-content-center">
+        <div class="col-8">
+            <img class="group-picture" src="assets/images/artist_left.jpg" alt="" width="643px" height="398px">
+            <div class="picture-text text-white text-center">
+                <h2 class="mb-2">The Boom Booms</h2>
+                <p class="mt-2">Live streamed from the Sea to Sky Gondola | Saturday, August 22</p>
+                <p>Stay tuned for more details</p>
+            </div>
+            <h4 class="mt-2">Livestream: The Boom Booms</h4>
+        </div>
+            <div class="col-4 ">
+                <img class="group-picture"  src="assets/images/artist_right.jpg" alt="" width="421px" height="397px">
+                <div class="picture-text text-white text-center">
+                <h2 class="mb-2">Norman Foote: Tales & Tunes Live stream</h2>
+                <p class="mt-2">Live streamed from the Sea to Sky Gondola | Saturday, August 22</p>
+                <p>Stay tuned for more details</p>
+                </div>
+                <h4 class="mt-2">Livestram: Norman Foote</h4>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end of artists section -->
+<section class="separator2_bg">
+</section>
+<!-- END OF SEPARATOR SECTION -->
+
 
     
 <script type="text/javascript" src="assets/js/jquery.js"></script>

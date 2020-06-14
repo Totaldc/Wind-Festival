@@ -36,9 +36,26 @@ nav a:hover{
     background-image: url(../images/separator.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    height: 276px;
+}
+
+.separator2_bg{
+    background-image: url(../images/arts-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 176px;
 }
 
 .card{
     border: none;
+}
+
+.group-picture{
+    position: relative;
+}
+
+.picture-text{
+    position: absolute;
+    top: 50%;
+    left: 15%;
 }
