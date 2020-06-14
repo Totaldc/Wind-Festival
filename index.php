@@ -211,7 +211,40 @@
     </div>
 </section>
 <!-- end of youtube section -->
-
+<section>
+    <div class="container">
+        <div class="column justify-content-center">
+            <p class="text-center text-muted col-12 mt-3 mb-3">37950 Cleveland Ave, Squamish BC, Canada 	&nbsp;	&nbsp;   info@squamishartscouncil.com</p>
+            <div class="text-center">
+            <img src="assets/images/bottom-logo.jpg" alt="bottom logo">
+            </div>
+        </div>
+        <div class="row justify-content-center b-nav">
+            <a href="#">CONTACT</a>
+            <a href="#">INSTAGRAM</a>
+            <a href="#">FACEBOOK</a>
+            <a href="#">TWITTER</a>
+            <a href="#">SQUOMISH ART COUNCIL</a>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="contactForm p-4 text-center">
+                    <h2 class="mt-2">SUBSCRIBE</h2>
+                    <P class="font-weight-light">Sign up with your email address to receive news and updates from the Wind Festival & Squamish Arts Council.</P>
+                    <form action="" class="">
+                        <input type="text" name="user_name" placeholder="First name">
+                        <input type="text" name="lName" placeholder="Last name">
+                        <input type="email" name="email" placeholder="Email address:">
+                        <input type="submit" placeholder="Sign Up">
+                    </form>
+                </div>
+            </div>
+            <div class="d-flex justify-content-center mb-5">
+                    <div class="mt-4">
+                        <a class="last-a" href="#">DONATE TO SUPORT LOCAL ARTS</a>
+                    </div>
+                </div>
+    </div>
+</section>
     
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.bundle.js"></script>
