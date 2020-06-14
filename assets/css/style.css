@@ -1,0 +1,29 @@
+header{
+    font-family: sans-serif;
+}
+
+header span{
+    font-size: 22px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: lightgrey;
+    text-decoration: none;
+}
+
+.bg-mountain{
+    background-image: url(../images/logo_bg.jpg);
+    height: 590px;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.logo img{
+    width: 410px;
+    height: 260px;
+}
