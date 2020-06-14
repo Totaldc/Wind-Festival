@@ -52,6 +52,44 @@
     </div>
 </section>
 <!-- END OF EVENTS SECTION AND EMAIL FORM -->
+<section class="separator_bg">
+</section>
+<!-- END OF SEPARATOR SECTION -->
+<section class="text-muted">
+    <div class="container">
+        <div class="d-flex justify-content-between mt-5"> 
+            <div class="left col-6">
+                <h5>SCHEDULE OF EVENTS</h5>
+                <h1>Drive-In Series</h1>
+            </div>
+            <div class="right col-6">
+                <p>The Squamish Wind Festival For The Arts is excited to announce that we will be hosting three drive-in movie nights each Friday evening between Aug 7th and 21st at a large venue in Squamish, BC (details TBC). Each night we will have a local musician or band perform at 7pm with the movie kicking off at 9pm. We will have socially distanced stalls with a maximum vehicle count of 50 cars and reservations will be done online, once we are sold out we will clearly state that on the website as no walk-in traffic will be available. We are working closely with health officials and their phased approach for event guidelines to ensure we are a safe and socially distanced event. Proceeds support the local arts community in Squamish.</p>
+            </div>
+        </div>
+        <div class="card-list">
+        <div class="card-group">
+  <div class="card m-3">
+    <img src="assets/images/card_img.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title text-muted">DRIVE-IN: FRIDAY, AUGUST 7TH</h5>
+    </div>
+  </div>
+  <div class="card m-3">
+    <img src="assets/images/card_img.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title text-muted">DRIVE-IN: FRIDAY, AUGUST 14TH</h5>
+    </div>
+  </div>
+  <div class="card m-3">
+    <img src="assets/images/card_img.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title text-muted">DRIVE-IN: FRIDAY, AUGUST 21ST</h5>
+    </div>
+  </div>
+</div>
+        </div>
+    </div>
+</section>
 
     
 <script type="text/javascript" src="assets/js/jquery.js"></script>

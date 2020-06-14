@@ -31,3 +31,14 @@ nav a:hover{
 .emailForm{
     background-color: #D7D2D2;
 }
+
+.separator_bg{
+    background-image: url(../images/separator.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 176px;
+}
+
+.card{
+    border: none;
+}
